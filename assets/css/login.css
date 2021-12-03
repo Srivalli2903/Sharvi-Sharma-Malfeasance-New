@@ -1,10 +1,3 @@
-body{
-    background-image: url("assets/img/bckgrnd.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
 input{
     background-color: white;
     color:white;
