@@ -1,8 +1,8 @@
 body{
     background-image: url("/assets/img/sec1.jpg");
     background-repeat: no-repeat;
-   
-    background-position: center;
+    background-size: cover;
+    
 }
 
 input{
